@@ -4,7 +4,7 @@ Calculo de lucro por codorna.
 
 ## Preview
 
-<img src="https://github.com/DouglasHF94/calhas.rei/blob/master/imagens/pageInicial.png" height="500"/>
+<img src="https://github.com/DouglasHF94/codorna.lucro/blob/main/img/codornaIMG.png" height="500"/>
 
 ## Live link:
 
